@@ -1,3 +1,6 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Izvrsio sam minimalne prepravke da bi build radio bez prijava greske.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # NA7Q builds are manually merged to keep up to date with the original source code
 Only minor modifications are done to the source code. Thanks to all the developers who have made this firmware possible and made it open source!
 
